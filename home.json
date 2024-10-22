@@ -1,0 +1,21 @@
+{
+  "heroTitle": {
+    "text": "Craft Your website",
+    "style": {
+      "font-size": "24px",
+      "color": "#333"
+    }
+  },
+  "heroImage": {
+    "src": "https://eu-images.contentstack.com/v3/assets/blt675487c3d7a37150/bltb6bdfd919dceeb65/671558b2851e101cf020d42b/Homepage.png",
+    "alt": "Home Hero Image"
+  },
+  "button": {
+    "text": "Get Started",
+    "link": "/services",
+    "style": {
+      "background-color": "#000",
+      "color": "#fff"
+    }
+  }
+}
